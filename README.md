@@ -8,6 +8,7 @@ You can follow [@CSGODemoManager](https://twitter.com/CSGODemoManager) on Twitte
 ## Preview ##
 
 ![preview](https://csgo-demos-manager.com/images/listing.jpg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAlexMFV%2FCSGO-Demos-Manager.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FAlexMFV%2FCSGO-Demos-Manager?ref=badge_shield)
 More screenshots and video are available at [https://csgo-demos-manager.com](https://csgo-demos-manager.com).
 
 ## Features ##
@@ -151,3 +152,6 @@ For example **"8 demo(s) have been downloaded."**
 ## License
 
 [GPL v2](https://github.com/akiver/CSGO-Demos-Manager/blob/master/LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAlexMFV%2FCSGO-Demos-Manager.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FAlexMFV%2FCSGO-Demos-Manager?ref=badge_large)
